@@ -58,44 +58,24 @@ For Software:
 *output*
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+
+
 
 # Build Photos
-![Team](Add photo of your team here)
+![Screenshot 2025-02-09 110813](https://github.com/user-attachments/assets/671998f0-9694-4328-b2ba-7b54226ee8f0)
+*html file with style and script*
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
+![Screenshot 2025-02-09 103747](https://github.com/user-attachments/assets/54953a9c-cf05-48a1-9d5f-3015b3487689)
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+*output*
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Aamina N: Frontend development using HTML, CSS, and JavaScript. Designed the user interface and worked on responsiveness.
+-Ann Mary Anilson: Handled JavaScript logic for generating reality checks and managed project documentation.
 
 ---
 Made with ❤️ at TinkerHub
