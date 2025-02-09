@@ -49,14 +49,13 @@ open index.html
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2025-02-09 103747](https://github.com/user-attachments/assets/f3d0d00b-2207-4704-91e6-84f289d287cf)
+*output*
+![Screenshot 2025-02-09 103636](https://github.com/user-attachments/assets/3329e221-456d-4e9b-94bd-4b039f9f2ec1)
+*output*
+![Screenshot 2025-02-09 102754](https://github.com/user-attachments/assets/cf36446a-72eb-4563-81bf-3fa3d1447ad8)
+*output*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
