@@ -40,11 +40,11 @@ For Software:
 ```
 git clone https://github.com/Aaminaniya/REALITY-CHECK-BUDDY.git
 ```
-[commands]
+
 cd REALITY-CHECK-BUDDY
 # Run
 open index.html
-[commands]
+
 
 ### Project Documentation
 For Software:
