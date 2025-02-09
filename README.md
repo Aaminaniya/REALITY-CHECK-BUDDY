@@ -39,6 +39,7 @@ For Software:
 # Installation
 ```
 git clone https://github.com/Aaminaniya/REALITY-CHECK-BUDDY.git
+```
 [commands]
 cd REALITY-CHECK-BUDDY
 # Run
