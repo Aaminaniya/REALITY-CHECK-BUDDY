@@ -1,46 +1,48 @@
-# [Project Name] 🎯
+# REALITY CHECK BUDDY 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: PIXELS
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Aamina N - College of Engineering Perumon
+- Member 2: Ann Mary Anilson - College of Engineering Perumon
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://reality-check-buddy-libd18azu-aaminaniyas-projects.vercel.app/
 
 ### Project Description
-[2-3 lines about what your project does]
-
+Reality Check Buddy is a friendly web-based companion that provides comforting, supportive, and reality-based responses to common emotional thoughts. It helps users process feelings like sadness, anxiety, and self-doubt with encouraging messages.
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Ever feel overwhelmed by your own thoughts? Like, "Why does everyone hate me?" or "I'm such a failure." These thoughts can spiral and feel very real, even when they're not. We're solving the problem of "overthinking overload."
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Reality Check Buddy is like that one friend who always knows what to say. You select your current thought, hit a button, and BAM—you get a reality check that’s honest, kind, and sometimes even funny. It’s like mental first aid, but with emojis. 😊
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages Used: HTML, CSS, JavaScript
 
+-Frameworks Used: None (Simple, lightweight website)
+
+-Libraries Used: None (Vanilla JS for simplicity)
+
+-Tools Used: VS Code, GitHub, Web Browser
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- N/A This is a web-based project, no hardware involved
 
 ### Implementation
 For Software:
 # Installation
+```
+git clone https://github.com/Aaminaniya/REALITY-CHECK-BUDDY.git
 [commands]
-
+cd REALITY-CHECK-BUDDY
 # Run
+open index.html
 [commands]
 
 ### Project Documentation
